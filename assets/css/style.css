@@ -70,7 +70,8 @@ h5 {
 }
 
 h6 {
-	font-size: 11px;
+	text-transform: none;
+	font-size: 14px;
 	letter-spacing: 1px;
 	font-weight: 400;
 }
