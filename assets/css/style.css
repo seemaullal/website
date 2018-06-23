@@ -148,6 +148,10 @@ h6 {
 	background: #222;
 }
 
+.navbar-toggle {
+	margin-top: 15px;
+}
+
 /* ---------------------------------------------- /*
  * Logo
 /* ---------------------------------------------- */
@@ -159,9 +163,9 @@ h6 {
 
 @media (max-width: 768px) {
 	.logo{
-		margin-top: 10px;
+		margin-top: 15px;
 		margin-bottom: -50px;
-		max-width: 30%; !important
+		max-width: 40%;
 	}
 }
 
